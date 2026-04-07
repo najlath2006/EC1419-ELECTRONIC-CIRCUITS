@@ -8,7 +8,16 @@
 
 ## Tabulations
 
+
+
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/ae46ec5d-dbcc-4eb6-a689-04e254f4d584" />
+
 ## Graph
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/8894d411-30e6-4930-8a3a-14cded44c6a6" />
+
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
