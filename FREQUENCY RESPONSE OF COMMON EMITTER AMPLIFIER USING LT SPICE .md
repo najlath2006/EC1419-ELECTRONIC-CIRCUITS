@@ -14,10 +14,28 @@
 
 ## CIRCUIT DIAGRAM
 
+<img width="718" height="1600" alt="image" src="https://github.com/user-attachments/assets/07cd6223-8c51-47c9-b37a-1075b9426094" />
+
+
+
+
+
+
+
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
 
 ## MODEL GRAPH
+
+
+
+<img width="718" height="1600" alt="image" src="https://github.com/user-attachments/assets/03408bc6-2c97-40ad-af50-119eed4856f1" />
+
+
+
+
+
+
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
@@ -26,12 +44,21 @@
 
 ## Tabulation
 
+<img width="718" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cdcbc3c-fd10-47b5-b665-0b0f4509a968" />
+
+
+
+
+
+
+
+
 ## Graph
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =6V**
 
-**BANDWIDTH =**
+**BANDWIDTH =100KHz**
